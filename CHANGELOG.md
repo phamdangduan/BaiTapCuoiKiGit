@@ -8,3 +8,5 @@
 - Implement Subtraction function (SUB)
 - Implement Multiplication function (MUL)
 - Implement Division function (DIV)
+
+ok 
